@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #151515;
+  background: #0064;
 }
 
 #preloader:before {
@@ -416,11 +416,11 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h1 {
   margin: 0;
-  font-size: 56px;
+  font-size: 75px;
   font-weight: 700;
   line-height: 64px;
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: Times, "Times New Roman", Georgia, serif;
 }
 
 #hero h1 span {
@@ -480,7 +480,7 @@ h1, h2, h3, h4, h5, h6 {
     height: auto;
   }
   #hero h1 {
-    font-size: 28px;
+    font-size: 30px;
     line-height: 36px;
   }
   #hero h2 {
@@ -1404,7 +1404,7 @@ section {
   padding: 2px 0 2px 0;
   line-height: 1;
   font-weight: 700;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 #footer .footer-top .footer-info h3 span {
