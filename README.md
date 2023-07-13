@@ -1,5 +1,7 @@
 # in_a_flash0
 
+![in_a_flash0 Logo](img/if0.png)
+
 in_a_flash0 is a freelancer-run GitHub organization led by a group of fresh graduates embarking on their career journey together.
 
 We are a dynamic and experienced freelancing organization specializing in delivering high-quality software solutions. With a team of skilled and dedicated members, we aim to provide efficient and innovative services tailored to our clients' needs.
