@@ -1,6 +1,6 @@
 # in_a_flash0
 
-<img src="img/ifo.png" alt="in_a_flash0 Logo" width="50px" height="50px"/>
+<img src="img/if0.png" alt="in_a_flash0 Logo" width="50px" height="50px"/>
 
 in_a_flash0 is a freelancer-run GitHub organization led by a group of fresh graduates embarking on their career journey together.
 
