@@ -133,7 +133,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo {
-  font-size: 32px;
+  font-size: 22px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -529,29 +529,45 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #151515;
+  color: #000000;
+}
+
+.Welcome h1 {
+  margin: 0;
+  font-size: 75px;
+  font-weight: 700;
+  line-height: 64px;
+  color: #fff;
+  font-family: Times, "Times New Roman", Georgia, serif;
 }
 
 /*--------------------------------------------------------------
-# About
+# commitment
 --------------------------------------------------------------*/
-.about .content h3 {
+.commitment {
+  /* background-color: #2C3539; */
+  text-align: justify;
+}
+.commitment .content{
+  /* color: #fff; */
+}
+.commitment .content h3 {
   font-weight: 700;
   font-size: 28px;
   font-family: "Poppins", sans-serif;
 }
 
-.about .content ul {
+.commitment .content ul {
   list-style: none;
   padding: 0;
 }
 
-.about .content ul li {
+.commitment .content ul li {
   padding: 0 0 8px 26px;
   position: relative;
 }
 
-.about .content ul i {
+.commitment .content ul i {
   position: absolute;
   font-size: 20px;
   left: 0;
@@ -559,7 +575,7 @@ section {
   color: #ffc451;
 }
 
-.about .content p:last-child {
+.commitment .content p:last-child {
   margin-bottom: 0;
 }
 
@@ -599,35 +615,39 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Features
+# approach
 --------------------------------------------------------------*/
-.features {
+.approach{
+  background-color: #e7ebed;
+  text-align: justify;
+}
+.approach {
   padding-top: 20px;
 }
 
-.features .icon-box {
+.approach .icon-box {
   padding-left: 15px;
 }
 
-.features .icon-box h4 {
+.approach .icon-box h4 {
   font-size: 20px;
   font-weight: 700;
   margin: 5px 0 10px 60px;
 }
 
-.features .icon-box i {
+.approach .icon-box i {
   font-size: 48px;
   float: left;
   color: #ffc451;
 }
 
-.features .icon-box p {
+.approach .icon-box p {
   font-size: 15px;
   color: #848484;
   margin-left: 60px;
 }
 
-.features .image {
+.approach .image {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -637,6 +657,9 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+.services{
+  background-color: #e7ebed;
+}
 .services .icon-box {
   text-align: center;
   border: 1px solid #ebebeb;
